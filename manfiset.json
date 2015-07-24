@@ -1,0 +1,8 @@
+{
+  "name": "Folderive",
+  "version": "1.0",
+  "description": "Folders, Drive.",
+  "browser_action": {
+    "default_icon": "icon.png"
+  }
+}
